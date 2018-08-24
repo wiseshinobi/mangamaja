@@ -4,8 +4,8 @@ import re
 import os
 import jinja2
 
-site_name = 'Pinebear'
-site_base_url = 'https://www.pinebear.in/'
+site_name = 'Mangamaja'
+site_base_url = 'https://www.mangamaja.com/'
 
 def main():
     if len(sys.argv) != 3:
@@ -17,7 +17,6 @@ def main():
         template_name = sys.argv[2]
         url = site_base_url + sys.argv[1].replace('.md', '.html').replace('index.html', '')
         raw_content = f_ip.read()
-        print raw_content
         content = markdown.markdown(raw_content, extensions=['markdown.extensions.fenced_code', 'markdown.extensions.tables'], output_format='html5')
         for match in re.finditer(r'<img[^>]+src="([^"]+)"[^>]*>', content):
             img_tag = match.group(0)
