@@ -24,26 +24,18 @@
             -webkit-font-smoothing: antialiased;
             text-rendering: optimizeLegibility;
             line-height: 1.6;
-            margin-bottom: 75px;
+            margin-bottom: 50px;
         }
         .content {
-            max-width: 38em;
+            max-width: 35em;
             margin: 0 auto;
             padding: 0 10px;
         }
         .nav {
-            background-color: #37474f;
-            color: white;
-            padding-top: 10px;
-            padding-bottom: 10px;
+            text-align: center;
+            margin-top: 10px;
+            margin-bottom: 10px;
         }
-	.nav-left {
-            display: inline-block;
-	}
-	.nav-right {
-            display: inline-block;
-            float: right;
-	}
         img {
             max-width: 100%;
             display: block;
@@ -52,41 +44,18 @@
         a {
             text-decoration: none;
         }
-        a:link {
+        a:link, .nav a, .nav a:visited {
             color: #07C;
         }
-        a:hover, a:active {
+        a:hover, a:active, .nav a:visited:active, .nav a:visited:hover {
             color: #3af;
         }
         a:visited {
             color: #005999;
         }
-        .nav a {
-            color: white;
-        }
         pre {
             overflow-x: auto;
             padding: 5px;
-            background-color: #eee;
-        }
-        table {
-            width: 90%;
-            margin: 0 auto;
-        }
-        @media screen and (min-width: 850px) {
-            table {
-                width: 480px;
-            }
-        }
-        th, td {
-            text-align: left;
-            padding: 10px;
-        }
-        thead {
-            background-color: #aaa;
-            color: white;
-        }
-        tbody {
             background-color: #eee;
         }
         .social img {
@@ -100,14 +69,9 @@
     </head>
     <body>
         <div class="nav">
-            <div class="content">
-		<div class="nav-left">
-		    <a href="/">Mangamaja</a>
-		</div>
-	        <div class="nav-right">
+		    <a href="/">Home</a> &middot;
 		    <a href="/boruto/">Boruto</a> &middot;
 		    <a href="/one-piece/">One Piece</a>
-	        </div>
 	    </div>
         </div>
         <div class="content">
