@@ -12,7 +12,8 @@ striking Tsuru. One of the officials from beyond the Torii gate heard
 Tusuru badmouthing the shogun and decided to kill her with an arrow.
 Gazelleman, one of the henchmen, kidnaps Tama. Luffy and the gang
 start to give chase. Kiku says that she is a Samurai and can wield a sword.
-The gang are about the gate and enter Bakura town, where officials and
-pirates are residing. At a distance, Law learns what Luffy is about the do
-and says that they have to stop Luffy from making a scene.
+The gang are about to cross the gate and enter Bakura town where officials and
+pirates reside. At a distance, Law learns what Luffy is about to do
+and says that they have to stop Luffy before he makes a scene.
+
 
