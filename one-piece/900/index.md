@@ -1,0 +1,5 @@
+One Piece 900 Summary
+=====================
+
+Big Mom reaches the cake and gorges on it. Much to Lola's surprise, Sanji had taken special care to make the cake. Despite being Big Mom's enemy, Sanji loved the thought of how pleased she would be when she ate the cake. All this preparation pays off; Mama absolutely loves the cake, and her fit ends. Big Mom's family is overjoyed and attributes the cake the Pudding. Over at Luffy and the others, the Sun Pirates (Jinbei's former crew mates) save the Straw Hats and make a path through the enemy lines for the Sunny (Straw Hat's ship). However, before they can escape, brother Oven comes along and starts boiling the ocean, which really hurts the swimming Fishmen. Something weird is going on with Mama as she tries to guess the precise flavor and starts remembering an old birthday party she received from her adoptive mother and the orphans. As Mama regains control, her main ship appears right before the Straw Hats. She says the flavor of the cake is "happy" and "risky". While Mama finishes the cake, the Sunny appears to have been sunk by cannons and only Luffy's pirate flag is to be seen floating on the surface.
+

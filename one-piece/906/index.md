@@ -1,0 +1,5 @@
+One Piece 906 Summary
+=====================
+
+The fishmen stand in marvel at Mariejois. The are shown to a moving walkway (secretly driven by slaves underground) to take them to the palace. But fishmen prefer to observe the scenery and walk through the forest. Several of the princes gathered there fancy Shirahoshi and propose a marriage which Shirahoshi declines immediately. Princess Vivi of the Alabasta kingdom and Rebecca of Dressrosa are chatting, and Vivi reveals her suspicion that Luffy helped Dressrosa. Shirahoshi joins the conversation on hearing about Luffy. They reveal to each other that they are friends with Luffy. Dalton, Kureha, and even Wapol (having acquired a new kingdom) are also present. Dalton and Kureha ignore Wapol as he vents. In the Impel Down, the jailer Magellan has moved Doflamingo to a solitary cell to foil an assassiation attempt by the Celestial Dragons. Doflamingo claims that power is short lived and that it shoudn't matter if the  secret treasure in Mariejois is revealed to the world. (The secret treasure looks like a straw hat!)
+

@@ -1,0 +1,5 @@
+One Piece 901 Summary
+=====================
+
+Big Mom has finally returned to her normal state and is extremely happy with how the cake tasted. Wadatsumi, the giant fishman, had swapped Sunny with Sun Pirates' ship at the last minute saving the Straw Hat crew. As Wadatsumi is chased by Mama's fleet, the Sun Pirates' new captain (and Jinbei's former crew mate), Aladine, appears and takes on the pursuing Big Mom pirates to give the Straw Hats a chance to escape. Jinbei decides to stay back and fight with the Sun pirates as that's the only way the Straw Hats can escape. Luffy accepts Jinbei's offer and tells him to not die even if it kills him and to rendezvous in Wano. Big Mom is back on her feat and starts moving towards where the Straw Hats are. Back near the Straw Hats, Jinbei and the fishmen stop Big Mom's fleet by controlling the currents of the sea. With that, the Straw Hats can move forward without being attacked. The chapter ends with Morgans and Stussy, the news reporters, claiming that one among the worst generation will become the new pirate king.
+
