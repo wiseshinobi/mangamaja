@@ -1,5 +1,5 @@
-One Piece 917
-=============
+One Piece 917 Summary
+=====================
 
 In Paradise Town, we are introduced to Speed, a horse-human hybrid.
 Speed is one of Holdem's underlings and notices the fire that
