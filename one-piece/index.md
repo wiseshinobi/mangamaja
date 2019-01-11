@@ -1,6 +1,8 @@
 One Piece
 =========
 
+- [One Piece 929 Summary](/one-piece/929/)
+- [One Piece 928 Summary](/one-piece/928/)
 - [One Piece 927 Summary](/one-piece/927/)
 - [One Piece 926 Summary](/one-piece/926/)
 - [One Piece 925 Summary](/one-piece/925/)
